@@ -1,6 +1,6 @@
 # selenium
 
-[![Video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=kRIz7Gumnik)
+[![Video](http://img.youtube.com/vi/kRIz7Gumnik/0.jpg)](http://www.youtube.com/watch?v=kRIz7Gumnik)
 
 Video - https://www.youtube.com/watch?v=kRIz7Gumnik
 Blog post - https://oren.github.io/blog/selenium.html
